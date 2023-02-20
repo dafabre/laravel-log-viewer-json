@@ -1,5 +1,5 @@
 {
-    "name": "rap2hpoutre/laravel-log-viewer",
+    "name": "dafabre/laravel-log-viewer-json",
     "description": "A Laravel log reader",
     "license": "MIT",
     "keywords": [
@@ -13,8 +13,8 @@
     "type": "laravel-package",
     "authors": [
         {
-            "name": "rap2hpoutre",
-            "email": "raphaelht@gmail.com"
+            "name": "dafabre",
+            "email": "dac.fabre@gmail.com"
         }
     ],
     "require": {
